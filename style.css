@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    border:  solid black;
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    background: chocolate;
+}
+
+#total{
+    color:black;
+    font-weight: 200;
+}
+
